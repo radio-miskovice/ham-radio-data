@@ -1,0 +1,32 @@
+{
+  "version": 5,
+  "bands": [
+    { "name": "2200M", "r1_start": 135.7, "r1_end": 137.8, "r2_start": 135.7, "r2_end": 137.8, "r3_start": 135.7, "r3_end": 137.8, "contest": false },
+    { "name": "630M", "r1_start": 472, "r1_end": 479, "r2_start": 472, "r2_end": 479, "r3_start": 472, "r3_end": 479, "contest": false },
+
+    { "name": "160M", "r1_start": 1800, "r1_end": 2000, "r2_start": 1800, "r2_end": 2000, "r3_start": 1800, "r3_end": 2000, "contest": true },
+    { "name": "80M", "r1_start": 3500, "r1_end": 3800, "r2_start": 3500, "r2_end": 3800, "r3_start": 3500, "r3_end": 3900, "contest": true },
+    { "name": "75M", "r1_start": null, "r1_end": null, "r2_start": 3800, "r2_end": 4000, "r3_start": null, "r3_end": null, "contest": true },
+    { "name": "60M", "r1_start": 5351.5, "r1_end": 5366.5, "r2_start": 5351.5, "r2_end": 5366.5, "r3_start": 5351.5, "r3_end": 5366.5, "contest": false },
+    { "name": "40M", "r1_start": 7000, "r1_end": 7200, "r2_start": 7000, "r2_end": 7300, "r3_start": 7000, "r3_end": 7200, "contest": true },
+    { "name": "30M", "r1_start": 10100, "r1_end": 10150, "r2_start": 10100, "r2_end": 10150, "r3_start": 10100, "r3_end": 10150, "contest": false },
+    { "name": "20M", "r1_start": 14000, "r1_end": 14350, "r2_start": 14000, "r2_end": 14350, "r3_start": 14000, "r3_end": 14350, "contest": true },
+    { "name": "17M", "r1_start": 18068, "r1_end": 18168, "r2_start": 18068, "r2_end": 18168, "r3_start": 18068, "r3_end": 18168, "contest": false },
+    { "name": "15M", "r1_start": 21000, "r1_end": 21450, "r2_start": 21000, "r2_end": 21450, "r3_start": 21000, "r3_end": 21450, "contest": true },
+    { "name": "12M", "r1_start": 24890, "r1_end": 24990, "r2_start": 24890, "r2_end": 24990, "r3_start": 24890, "r3_end": 24990, "contest": false },
+    { "name": "10M", "r1_start": 28000, "r1_end": 29700, "r2_start": 28000, "r2_end": 29700, "r3_start": 28000, "r3_end": 29700, "contest": true },
+
+    { "name": "6M", "r1_start": 50000, "r1_end": 54000, "r2_start": 50000, "r2_end": 54000, "r3_start": 50000, "r3_end": 54000, "contest": true },
+    { "name": "4M", "r1_start": 70000, "r1_end": 70500, "r2_start": 70000, "r2_end": 70500, "r3_start": 70000, "r3_end": 70500, "contest": true },
+    { "name": "2M", "r1_start": 144000, "r1_end": 148000, "r2_start": 144000, "r2_end": 148000, "r3_start": 144000, "r3_end": 148000, "contest": true },
+    { "name": "222", "r1_start": null, "r1_end": null, "r2_start": 222000, "r2_end": 225000, "r3_start": null, "r3_end": null, "contest": true },
+    { "name": "70CM", "r1_start": 430000, "r1_end": 440000, "r2_start": 420000, "r2_end": 450000, "r3_start": 430000, "r3_end": 440000, "contest": true },
+    { "name": "902", "r1_start": null, "r1_end": null, "r2_start": 902000, "r2_end": 928000, "r3_start": null, "r3_end": null, "contest": true },
+    { "name": "23CM", "r1_start": 1240000, "r1_end": 1300000, "r2_start": 1240000, "r2_end": 1300000, "r3_start": 1240000, "r3_end": 1300000, "contest": true },
+
+    { "name": "13CM", "r1_start": 2300000, "r1_end": 2450000, "r2_start": 2300000, "r2_end": 2450000, "r3_start": 2300000, "r3_end": 2450000, "contest": true },
+    { "name": "9CM", "r1_start": 3300000, "r1_end": 3500000, "r2_start": 3300000, "r2_end": 3500000, "r3_start": 3300000, "r3_end": 3500000, "contest": true },
+    { "name": "6CM", "r1_start": 5650000, "r1_end": 5850000, "r2_start": 5650000, "r2_end": 5925000, "r3_start": 5650000, "r3_end": 5850000, "contest": true },
+    { "name": "3CM", "r1_start": 10000000, "r1_end": 10500000, "r2_start": 10000000, "r2_end": 10500000, "r3_start": 10000000, "r3_end": 10500000, "contest": true }
+  ]
+}
